@@ -37,4 +37,4 @@ You should reference pseudocode for a depth-first ring-finding algorithm on [Wik
 
 Write your implementation in a file called `extra_credit.py`.
 Create a README.md file that includes typical information about the repository (how to install and run the code) and a reflection on the implementation of the ring-finding algorithm.
-In your reflection, focus on explaining choices in Python data types and structures you used in order to implement the algorithm.
+In your reflection, focus on explaining choices in Python data types and structures you used in order to implement the algorithm and how you tested your code as you developed it.
